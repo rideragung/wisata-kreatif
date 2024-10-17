@@ -17,6 +17,6 @@ Web Programming Project for promote destinations and local products in Indonesia
 
 ## To Run This Project You Must :
 
-- Use folder MVC2 as root (MVC2/public)
+- Use folder wisata-kreatif as root (wisata-kreatif/public)
 - Adjust the database configuration on Model
 - Run the Database on src/database
