@@ -1,0 +1,5 @@
+# Node modules
+node_modules/
+
+# Output CSS dari Tailwind CLI
+public/styles/output.css
